@@ -21,8 +21,11 @@
 ## What never enters this repository
 
 - **Nothing personal or employer-related**: no personal details, no private conversations, no work material.
-- **No personal writing corpora**: drafts, manuscripts, notes and source material for the writing Prospero
-  helps with live outside the repository. Tests and examples use synthetic or public-domain text only.
+- **No works and no corpora of any kind** (DEC-183): not Zach's writing, drafts, manuscripts, articles, books or
+  notes, and not anyone else's works either, public-domain or not. They live outside the repository and are never
+  committed, used as fixtures or quoted here.
+- **Tests and examples use invented synthetic text only**: short passages written for the test, not taken from
+  any existing work.
 - No secrets, tokens or credentials.
 
 ## Purpose records (Telosmith)

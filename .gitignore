@@ -1,4 +1,4 @@
-# Personal writing corpora never enter this repository (lane seed rule).
+# Works and corpora of any kind never enter this repository (DEC-183); these paths guard common slips.
 # Keep drafts, manuscripts and source material outside the clone.
 corpus/
 corpora/
