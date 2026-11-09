@@ -1,0 +1,10 @@
+# Personal writing corpora never enter this repository (lane seed rule).
+# Keep drafts, manuscripts and source material outside the clone.
+corpus/
+corpora/
+drafts/
+manuscripts/
+*.local.*
+__pycache__/
+*.pyc
+*.tmp
