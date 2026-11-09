@@ -11,7 +11,9 @@ Zach has not yet stated the purpose in his own words. When he does, it becomes t
 - Prospero is the name of the creative-collaboration tool formerly called PlayWrite (decision DEC-128, 2026-11-05).
   *Ariel* is reserved for its agent layer, if that layer is ever named separately (same decision).
 - Development was activated on 2026-11-09 (DEC-182).
-- This repository holds the mechanics (code, docs, tests) and no content: no works and no corpora (DEC-183).
+- This repository holds the mechanics (code, docs, tests). Zach's own works and corpora stay out; they reach the tool
+  through sockets onto storage outside the repo. Public-domain works are allowed, for example as test text
+  (DEC-183, clarified by DEC-184).
 
 ### Ideas on record, not requirements
 

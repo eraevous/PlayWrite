@@ -1,5 +1,5 @@
-# Works and corpora of any kind never enter this repository (DEC-183); these paths guard common slips.
-# Keep drafts, manuscripts and source material outside the clone.
+# Zach's own works and corpora never enter this repository (DEC-183, DEC-184); these paths guard common slips.
+# Keep his drafts, manuscripts and source material outside the clone. Public-domain fixtures are allowed (DEC-184).
 corpus/
 corpora/
 drafts/

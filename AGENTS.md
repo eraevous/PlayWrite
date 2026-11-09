@@ -21,11 +21,14 @@
 ## What never enters this repository
 
 - **Nothing personal or employer-related**: no personal details, no private conversations, no work material.
-- **No works and no corpora of any kind** (DEC-183): not Zach's writing, drafts, manuscripts, articles, books or
-  notes, and not anyone else's works either, public-domain or not. They live outside the repository and are never
-  committed, used as fixtures or quoted here.
-- **Tests and examples use invented synthetic text only**: short passages written for the test, not taken from
-  any existing work.
+- **None of Zach's own works or corpora** (DEC-183, clarified by DEC-184): no writing, drafts, manuscripts,
+  articles, books, notes, or personal or writing corpora of his. They are not public yet. They live outside the
+  repository and reach Prospero through sockets (DEC-177: an adapter or MCP information-in resource onto storage
+  such as the content folder), never by being committed, used as fixtures or quoted here.
+- **Public-domain works are allowed** (DEC-184), for example as fixtures, examples or test text. Say where the
+  text comes from and why it is in the public domain.
+- **Third-party works still under copyright stay out by default** (Zach has not addressed them; ask first).
+- Tests and examples otherwise use invented synthetic text written for the test.
 - No secrets, tokens or credentials.
 
 ## Purpose records (Telosmith)
