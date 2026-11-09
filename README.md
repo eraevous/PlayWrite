@@ -1,3 +1,3 @@
-# PlayWrite
+# Prospero
 
-Placeholder. The foundation for this project (to be named Prospero) is proposed in pull request #1.
+Placeholder. The foundation for this project is proposed in pull request #1.
