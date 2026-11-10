@@ -1,0 +1,10 @@
+# Zach's own works and corpora never enter this repository (DEC-183, DEC-184); these paths guard common slips.
+# Keep his drafts, manuscripts and source material outside the clone. Public-domain fixtures are allowed (DEC-184).
+corpus/
+corpora/
+drafts/
+manuscripts/
+*.local.*
+__pycache__/
+*.pyc
+*.tmp

@@ -1,0 +1,3 @@
+// Telosmith records. Append-only: add a new version instead of editing a line.
+{"id": "AU-owner", "version": 1, "type": "authority", "text": "Zach: design intent and acceptance", "governs": ["purpose", "design", "acceptance", "code"]}
+{"id": "P0", "version": 1, "type": "purpose", "subject": "purpose", "owner": "AU-owner", "epistemic": "provisional", "text": "TODO: the owner states what this project is for (stub from aec init)"}
